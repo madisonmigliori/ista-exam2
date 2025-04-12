@@ -7,11 +7,7 @@
 - (5 points): Describe each of the 12 variables in your own words, then mention the datatype of each.
 - (5 points): Form your research question that can be answered by this dataset.
 - (5 points): Explain why your research question would be interesting to the board-- do not tailor your research question to me just because I'm your machine learning instructor. I'm interested in your model, but the board cares about money/patients. 
-- (40 points): Choose any algorithm from chapter 5, 6, 7, or 8 to answer your research question. Explain your choice. For example, if you choose Lasso then be sure you apply lasso to your logistic or linear regression model. If you choose a decision tree, make sure your choice is informative for the board. Not too easy or insulting.
-
-Write your algorithm from scratch.
-Include resources used for writing your algorithm. 
-If you choose to use generative AI-- and the gen AI model gets something wrong -- you will be docked for its mistakes. A mistake can include, but is not limited to: code mistakes, getting the right answer for the wrong reason, using a model for the wrong datatypes, ethical violations and assumptions made by the model, etc... 
+- (40 points): Choose any algorithm from chapter 5, 6, 7, or 8 to answer your research question. Explain your choice. For example, if you choose Lasso then be sure you apply lasso to your logistic or linear regression model. If you choose a decision tree, make sure your choice is informative for the board. Not too easy or insulting. Write your algorithm from scratch. Include resources used for writing your algorithm. 
 - (15 points): You need to validate your algorithm! If you want to use a package for this, that is okay.
 - (15 points): Create a repository on your personal GitHub site.
 
